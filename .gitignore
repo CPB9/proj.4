@@ -19,7 +19,6 @@ test-driver
 /.vs*
 /*.manifest
 /*.swp
-/*build*
 /aclocal.m4
 /autom4te.cache
 /config.cache
